@@ -1,4 +1,5 @@
 uvicorn[standard]
+pydantic
 fastapi
 mypy
-tomli ; python_version < 3.11
+tomli ; python_version < "3.10"
