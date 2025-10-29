@@ -1,3 +1,3 @@
 from .main import api
 
-__all__ = ['api'] # used by uvicorn
+__all__ = ["api"]  # used by uvicorn
